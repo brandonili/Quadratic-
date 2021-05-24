@@ -1,7 +1,9 @@
 # Quadratic-
 Creating a quadratic formula 
 
-public class Quadratic {
+
+
+// public class Quadratic {
 
     // attributes
     private double a;
